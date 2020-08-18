@@ -1,0 +1,16 @@
+.tableProduct th {
+    background-color: hsl(216, 97%, 29%);
+    color: #fff;
+}
+
+.tableProduct table {
+    width: 100%;
+}
+
+.tableProduct .Par {
+    background-color: #ddd;
+}
+
+.tableProduct .Impar {
+    background-color: #ccc;
+}
